@@ -1,3 +1,9 @@
-<resources>
+<resources xmlns:tools="http://schemas.android.com/tools">
     <string name="app_name">MyApp</string>
+    <string name="button">Button</string>
+    <string name="forget_password">Forget Password</string>
+    <string name="user_string_app_name">User @string/app_nameName</string>
+    <string name="password">Password</string>
+    <string name="user_name">User Name</string>
+    <string name="forgot_password">Forgot Password</string>
 </resources>
